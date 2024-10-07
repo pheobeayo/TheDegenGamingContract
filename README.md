@@ -47,7 +47,7 @@ The getBalance function enables users to check their Degen token balance.
 
 ### Deployment Information
 
-Contract Address: 0x7755BAA4376a5a3bC483dc2deED3e16Eb20f4EDA
+Contract Address: 0x5FD6eB55D12E759a21C09eF703fe0CBa1DC9d88D
 
 Compiler Version: Solidity 0.8.9
 
@@ -63,7 +63,7 @@ Ifeoluwa Sanni
 
 ## Loom(video) walkthrough
 ```bash
-
+https://www.loom.com/share/ad2ec85272794efebad41a0ff790fb3c?sid=8be6faff-4903-4b88-9d1a-f85a7a3cd8ba
 ```
 
 ### Disclaimer
